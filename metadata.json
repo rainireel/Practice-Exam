@@ -1,0 +1,6 @@
+{
+  "name": "ReviseIQ - Practice Exam & Assessment Vault",
+  "description": "Multi-semester, multi-subject interactive practice exam portal with instant grading, question palettes, verbatim review, and flexible question bank imports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
